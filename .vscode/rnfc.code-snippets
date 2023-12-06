@@ -1,0 +1,16 @@
+{
+	"Basic React Native Screen": {
+		"prefix": "rnfc",
+		"body": [
+            "import React from 'react';",
+            "import { View } from 'react-native';",
+			"import Style from '../styles/style';"
+            "",
+            "export default function(){",
+            "  return (",
+            "  );",
+            "}",
+        ],
+		"description": "Basic React Native Screen"
+	}
+}
